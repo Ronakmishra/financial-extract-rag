@@ -13,3 +13,4 @@ llm = ChatGroq(model_name="llama-3.3-70b-versatile")
 ```
 
 ![Financial Data Extractor UI](/image.png)
+![](/image2.png)
