@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.llm-env/
+*.egg-info/
+.Python
+
+# PyCharm project files
+.idea/
+*.iml
+
+# Environment variables & secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test, log, and coverage files
+*.log
+*.coverage
+coverage.xml
+htmlcov/
+.cache/
+.pytest_cache/
+.tox/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compressed files
+*.zip
+*.tar.gz
+*.tar
+
+# Misc
+*.swp
+*.swo
